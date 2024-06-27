@@ -1,6 +1,6 @@
 # GenesisWatch
 
-Welcome to GenesisWatch, a monitoring tool designed to keep track of file creation times. The script, `genwatch`, manages and sets extended attributes for files and directories, ensuring that each entity's earliest known timestamp (birth or modification) is accurately recorded and maintained. This was created out of my frustration with Linux handling the creation timestamp of files.
+GenesisWatch, a monitoring tool designed to keep track of file creation times. The script, `genwatch`, manages and sets extended attributes for files and directories, ensuring that each entity's earliest known timestamp (birth or modification) is accurately recorded and maintained. This was created out of my frustration with Linux handling the creation timestamp of files.
 
 ## ⚠️ Caution
 
